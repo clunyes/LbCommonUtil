@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LbCommonUtil.iml" filepath="$PROJECT_DIR$/LbCommonUtil.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LbProject.iml" filepath="$PROJECT_DIR$/LbProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lbcommonutil/lbcommonutil.iml" filepath="$PROJECT_DIR$/lbcommonutil/lbcommonutil.iml" />
     </modules>
   </component>
 </project>
