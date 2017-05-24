@@ -1,13 +1,13 @@
 package com.lb.lbcommonutil.app;
 
-import android.app.Application;
 import android.content.Context;
 import android.content.res.Resources;
+import android.support.multidex.MultiDexApplication;
 
 /**
  * APPLICATION
  */
-public class BaseApplication extends Application {
+public class BaseApplication extends MultiDexApplication {
 
     private static BaseApplication baseApplication;
 
